@@ -5,9 +5,9 @@ See LICENSE and each dataset's SOURCE.md for provenance and terms.
 See THIRD_PARTY_NOTICES.md for the source attribution.
 
 AutomationBench
-  data/penguinharness-benchmark-sec-c/
+  penguinharness-benchmark-sec-c/
   https://github.com/zapier/AutomationBench
   Copyright 2026 Zapier, Inc.
   Licensed under the MIT License; the full text is kept with the vendored copy
-  at data/penguinharness-benchmark-sec-c/vendor/automationbench-4a8e106/LICENSE (see
+  at penguinharness-benchmark-sec-c/vendor/automationbench-4a8e106/LICENSE (see
   THIRD_PARTY_NOTICES.md).
